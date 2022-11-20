@@ -1,0 +1,8 @@
+info: action start
+action: processing
+info: action end
+action: processing
+action: processing
+action: processing
+info: action error
+info: action stop
